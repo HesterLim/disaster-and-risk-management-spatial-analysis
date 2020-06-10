@@ -3,3 +3,4 @@ In light of the recommendations on Emergency Planning and Response, the State Go
 
 - do age distribution and population density
 - done with hazard map and factors map
+- done with vunerability map and its factors
