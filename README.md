@@ -5,3 +5,4 @@ In light of the recommendations on Emergency Planning and Response, the State Go
 - done with hazard map and factors map
 - done with vunerability map and its factors
 - done with methodology and lit review
+- done with individual reflections and checking the file
